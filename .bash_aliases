@@ -1,5 +1,3 @@
-shopt -s expand_aliases
-
 alias as="alias";
 alias v='codium';
 alias c='clear';
@@ -8,6 +6,7 @@ alias gccwwm='gccww main';
 alias gccw='gcc -Wall *.c -o';
 alias gccwm='gccw main';
 alias l='ls';
+alias la='l -a'
 alias ll='l -l';
 alias cmain='c;./main';
 alias main='./main';
